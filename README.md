@@ -35,11 +35,3 @@ o	plot_factor_model_submission.R: It loads the estimated loading matrices comp_l
 o	  and Y.csv data and run the analysis outlined in Section 5.2 of the paper and produces Table 2.
 •	Section 5.3: Inference study using EHull and EForm
 o	Ehull_EForm_regression.ipynb This code loads the Y.csv, Y_new_Ehull.csv, Y_new_form.csv, group_vect.csv data and run the analysis outlined in Section 5.3 of the paper, and produces Table 3 and Figure 6. 
-
- 	
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/66028426/232378479-809ca85b-9f3d-4bb8-a72a-eb182e9d856c.png)
