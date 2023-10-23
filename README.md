@@ -1,6 +1,8 @@
 # Linking-stability-with-molecular-geometries-of-perovskites-and-lanthanide-richness-using-machine-lea
 The file contains code and requires data and instruction to run the code. 
-
+•	Raw Data
+The Raw data is available in https://www.data-in-brief.com/article/S2352-3409(18)30509-2/fulltext 
+Li, Wei, Ryan Jacobs, and Dane Morgan. "Predicting the thermodynamic stability of perovskite oxides using machine learning models." Computational Materials Science 150 (2018): 454-463.
 
 •	Data
 1.	X_screen_mapped.csv
